@@ -1,5 +1,5 @@
-# 𝐓𝐈𝐆𝐄𝐑 𝐒𝐇𝐑𝐎𝐅𝐅
-Very Sempil Bot Auto Filter bot
+#𝐄.𝐃.𝐈.𝐓.𝐇
+Very Simple Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+E.D.I.T.H!;created+by+Babay!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
@@ -100,6 +100,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐖𝐨𝐫𝐥𝐝](https://t.me/+EqhXLhL3T1w4Zjc1)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐋𝐚𝐭𝐞𝐬𝐭 𝐌𝐨𝐯𝐢𝐞𝐬 𝐇𝐮𝐛](https://t.me/+veUIdIW2CQ5mOGU5)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐁𝐀𝐁𝐀𝐘](https://t.me/Films_bot_Panther)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [𝐅𝐈𝐋𝐌𝐒 𝐂𝐋𝐔𝐁](https://t.me/Filmsclub04)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐁𝐓 𝐌𝐎𝐕𝐈𝐄𝐒 𝐇𝐃](https://t.me/BT_MOVIES_HD)
