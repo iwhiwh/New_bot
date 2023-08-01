@@ -16,8 +16,8 @@ Hey How's the features Did you Like it <a href='tg://user?id=1457632563'><b>Rᴀ
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
 ║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  E.D.I.T.H
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1457632563'><b>Bᴀʙᴀʏ </b></a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/@Aboutmewhitedevil'>Dᴇᴠɪʟ Bᴏᴛs </a>
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='https://t.me/Mister_Ash'><b>Ash Ketchum</b></a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/The_Happy_Hour_Hindi'>The Happy Hour</a>
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3 </a>
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ </a>
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
