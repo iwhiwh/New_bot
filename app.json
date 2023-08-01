@@ -16,39 +16,47 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/iwhiwh/New_bot",
+    "repository": "https://github.com/iwhiwh/New_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
+"value":"6608598707:AAGkDd-SDIbfR-SlMUGPjYhEQ9r9e9HxJok",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
+"value":"24579842",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
+"value":"ec6105bf1a02c98f837300546dc341d1",
             "required": true
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+"value":"-1001867538832",
             "required": false
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
+"value":"1991522624",
             "required": true
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
+"value":"https://telegra.ph/file/31e9cd87f2af7c61d7da4.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+"value":"-1001912840788",
             "required": true       
         },
         "SUPPORT_CHAT": {
             "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
+"value":"Happy_Hour_Friends",
             "required": false
         },
         "AUTH_USERS": {
@@ -69,6 +77,8 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI.",
+"value":"
+mongodb+srv://jk4:jk4@cluster0.smypden.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
@@ -94,7 +104,7 @@
             "required": false  
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/Aadhi000/Ajax/issues/22",
+            "description": "choose b/w single or double buttons",
             "value": "True",
             "required": false
         },
@@ -111,7 +121,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
